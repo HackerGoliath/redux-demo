@@ -1,3 +1,5 @@
+// Installations:redux react-redux redux-thunk
+
 import './App.css';
 import Navbar from './Navbar';
 import Shop from './Shop';
